@@ -4,4 +4,4 @@ Esse repositório existe para expor minhas habilidades no desenvolvimento, aqui 
 
 # Games
 
-This repository exists to show my development skills, here are some of games made by me. I hope you like guys!
+This repository exists to show my development skills, here are some games made by me. I hope you like guys!
